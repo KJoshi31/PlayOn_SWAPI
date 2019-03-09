@@ -1,0 +1,7 @@
+Requirements to run the program: 
+- created/tested with Python 3.6, please have Python 3.x installed, preferrably Python 3.6
+- please have the requests package for Python installed: http://docs.python-requests.org/en/master/
+
+Run the main.py file with Python to start the command prompt program
+Command to run program:
+    python main.py
